@@ -3,8 +3,11 @@
 C# script for https://streamer.bot that decodes special html characters that don't normally display correctly.
 
 &#39 is changed to '
+
 &amp is changed to &
+
 &lt is changed to <
+
 &gt is changed to >
 
 It's intended to display Stream Elements tip messages in chat.
