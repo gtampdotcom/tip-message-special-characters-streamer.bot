@@ -10,7 +10,7 @@ C# script for https://streamer.bot that decodes special html characters that don
 
 &gt is changed to >
 
-It's intended to display Stream Elements tip messages in chat.
+I wrote it for displaying Stream Elements tip messages in chat.
 
 Copy the big line of text below, run Streamer.bot, click on the Import tab and paste the text into the Import String textbox.
 
