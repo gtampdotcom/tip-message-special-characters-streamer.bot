@@ -14,7 +14,7 @@ C# script for https://streamer.bot that decodes special html characters that don
 
 ![alt text](https://github.com/gtampdotcom/tip-message-special-characters-streamer.bot/blob/main/special%20characters%20fixed.png?raw=true)
 
-I wrote it for displaying Stream Elements tip messages in chat. You could just do that using the StreamElements cloud bot but I wanted to use Streamer.bot.
+I wrote it for displaying StreamElements tip messages in chat. You can just do that using the StreamElements bot but I wanted to use Streamer.bot.
 
 Copy the big line of text below, run Streamer.bot, click on the Import tab and paste the text into the Import String textbox.
 
@@ -22,7 +22,7 @@ TlM0RR+LCAAAAAAABACtVdtu4kgQfV9p/wGhzds4al8geN7ACY4d4kkg4Ms6D+3uxhjal/Ulxozm37fb
 
 It will import an events action named tip. By default it displays as %tipUsername% tipped $%tipAmount% %tipCurrency% "%tipMessage%". Edit the sub action, "Twitch Message" to change it.
 
-For the action to trigger, you need to click on Integrations > StreamElements > Events > Tip > generic and select the imported Tip action.
+For the action to trigger, you need to click on Integrations > StreamElements > Events > Tip > generic and select our newly imported tip action.
 
 ![alt text](https://github.com/gtampdotcom/tip-message-special-characters-streamer.bot/blob/main/show%20stream%20elements%20tips%20in%20streamer%20bot.png?raw=true)
 
