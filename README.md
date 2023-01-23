@@ -24,5 +24,4 @@ It will import an events action named tip. By default it displays as %tipUsernam
 
 For the action to trigger, you need to click on Integrations > StreamElements > Events > Tip > generic and select our newly imported tip action.
 
-![alt text](https://github.com/gtampdotcom/tip-message-special-characters-streamer.bot/blob/main/show%20stream%20elements%20tips%20in%20streamer%20bot.png?raw=true)
-
+![streamer bot streamelements](https://user-images.githubusercontent.com/910729/213984552-90e65aae-2f0d-4ddd-841b-3fe10c4956e1.jpg)
